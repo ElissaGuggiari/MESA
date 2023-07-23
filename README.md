@@ -40,9 +40,8 @@ If you encounter any issues or have any suggestions, please open an issue on our
 
 ## Contributors:
 --------
-Mireia Falgueras <3
-Elissa Guggiari <3
-Andres Ossa <3
-Simone Archetti
+Mireia Falgueras
+Elissa Guggiari
+Andres Ossa
 
 Thank you for checking out our project!
