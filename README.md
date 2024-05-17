@@ -27,8 +27,8 @@ If you encounter any issues or have any suggestions, please open an issue on our
 
 ## Contributors:
 ---
-Mireia Falgueras
-Elissa Guggiari
-Andres Ossa
+- Mireia Falgueras
+- Elissa Guggiari
+- Andres Ossa
 
 Thank you for checking out our project!
